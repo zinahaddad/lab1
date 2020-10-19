@@ -1,0 +1,35 @@
+body{
+    font-family: 'Open Sans';
+    margin: 20px;
+    font-size: 12px;
+    background-color: #f9fafc;}
+    
+    .section1{
+        color: #000;}
+        .one{ 
+        justify-content: center;
+        color: #69696a;}
+
+
+        button{
+            border-radius: 25px;
+            background-color: #000;
+            color: white;
+            padding: 0.5rem;
+            text-align: center;
+            display: block;
+            font-size: 12px;
+            cursor: pointer;
+            width: 100%;
+            border-style: none;
+          } 
+ 
+          .section2{
+            color: #000;}
+          .two{
+            margin: 0px;
+            padding: 1rem;
+            color: #69696a;
+            border-left: 3px solid #69696a;}
+
+
