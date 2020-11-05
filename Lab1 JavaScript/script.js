@@ -36,7 +36,7 @@ for (let i = 0; i < lifeEvents.length; i++) {
     console.log(lifeEvents[i].text);
 }
 
-//Loops - For counter
+//Loops - For counter -
 let counter = 0;
 
 while (true) {
@@ -50,5 +50,4 @@ while (true) {
     break;
     }
 }
-
 
